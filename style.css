@@ -69,6 +69,7 @@ html {
 }
 
 .main-columns {
+  padding-top: 55px;
   display: flex;
   flex-wrap: wrap;
 }
@@ -419,5 +420,9 @@ html {
   .section-code {
     padding-right: 0;
     padding-left: 0;
+  }
+
+  .projects-container {
+    margin-left: 0;
   }
 }
