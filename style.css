@@ -296,8 +296,25 @@ html {
   background-image: url(./assets/2022-08-22_16-26-50.webp);
 }
 
-.project-eldritch {
-  background-image: url(./assets/2022-09-05_10-57-13.webp);
+.project-zoo {
+  background-image: url(./assets/zoo.png);
+  background-size: cover;
+}
+
+.project-codepen {
+  background-image: url(./assets/codepen.png);
+}
+
+.project-store {
+  background-image: url(./assets/store.png);
+}
+
+.project-songbird {
+  background-image: url(./assets/songbird.png);
+}
+
+.project-puzzle {
+  background-image: url(./assets/puzzle.png);
 }
 
 .project-link {
