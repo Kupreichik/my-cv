@@ -1,6 +1,3 @@
-# rsschool-cv
-
-https://Kupreichik.github.io/rsschool-cv/cv
+# my CV
 
 https://Kupreichik.github.io/rsschool-cv/
-
